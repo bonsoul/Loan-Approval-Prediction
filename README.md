@@ -1,6 +1,7 @@
 # Loan-Approval-Prediction
+*The notebook titled Loan Approval Analysis: Factors Influencing Credit Decisions focuses on analyzing key factors that influence credit decisions for loan approvals. It covers data segmentation based on income, dependents, education, and employment status, followed by exploratory analysis on loan approvals across different categories. Additionally, the notebook performs correlation analysis between various variables such as income, assets, and CIBIL scores. Logistic regression is applied, achieving a model accuracy of 92%.*
 
-# The Analysis Covers:
+## The Analysis Covers:
   ## 1.Loan Applicants Segementation:
   
     a)Income
